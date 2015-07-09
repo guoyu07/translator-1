@@ -1,7 +1,7 @@
 {
   "title": "translator",
   "name": "translator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "english to chinese translator based on youdao dict",
   "main": "index.js",
   "author": "chaoys",
