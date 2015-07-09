@@ -1,0 +1,13 @@
+{
+  "title": "translator",
+  "name": "translator",
+  "version": "0.0.1",
+  "description": "english to chinese translator based on youdao dict",
+  "main": "index.js",
+  "author": "chaoys",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
