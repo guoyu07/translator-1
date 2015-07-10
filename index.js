@@ -1,7 +1,6 @@
 var contextMenu = require('sdk/context-menu');
 var tabs = require('sdk/tabs');
 var panel = require('sdk/panel');
-var pageWorker = require('sdk/page-worker');
 
 var dictUrl = 'http://dict.youdao.com/search?q=';
 
